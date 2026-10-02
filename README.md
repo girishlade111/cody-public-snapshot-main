@@ -22,3 +22,7 @@ pnpm build
 
 ## License
 Apache-2.0 up to commit `d7fc6741e7893e3f6e29efe58043f1afe08d505f` — see `LICENSE` in snapshot.
+
+## Maintainer
+
+Mirrored and maintained by [Girish Lade](https://ladestack.in) — Built by Girish Lade · https://ladestack.in
